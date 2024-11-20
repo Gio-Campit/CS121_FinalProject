@@ -157,7 +157,7 @@ def donation(coins):
 
 # Welcome message
 def play_game():
-    print("Welcome GeoGuesser! Are you ready to explore the Philippines?")
+    print("Welcome! Are you ready to explore the Philippines?")
     total_points = 0  #initialize the total points
     while True:
         print("Choose a region to start the game (Case Sensitive and should be correct spelling)")
