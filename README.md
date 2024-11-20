@@ -16,8 +16,9 @@
 
   1. [Project Overview](#project-overview)
   2. [Application of Python Concepts](#application-of-python-concepts)
-  3. [Sustainable Development Goals (SDG) Integration on the Project](#sustainable-development-goals-(sdg)-integration-on-the-project)
+  3. [Sustainable Development Goals (SDG) Integration on the Project](#sustainable-development-goals-sdg-integration-on-the-project)
   4. [Instructions on how to run the Program](#instructions-on-how-to-run-the-program)
+  5. [Gratitude Statement](#Gratitude-Statement)
 </details>
 
 ---
