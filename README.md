@@ -26,6 +26,8 @@
 ### PROJECT OVERVIEW
   **Angat Buhay Lahat: DONATION THROUGH PHILIPPINE GEOGRAPHY EXPLORATION** is a philippine geography quiz game that enables the user to identify each capital of different provinces from the seventeen regions in the Philippines. The mere purpose of this system is to let the user learn the different capitals of the provinces from different regions while they can also help the ANGAT BUHAY FOUNDATION by just playing the game. In this game, users can accumulate points by getting the correct answer of the different questions and the points that they got can be converted into a coin in which these coins can be donated in the ANGAT BUHAY FOUNDATION to help them on their initiatives for the people. 
 
+<hr class="w-48 h-1 mx-auto my-4 bg-pink-500 border-0 rounded md:my-10 dark:bg-pink-600">
+
 ### APPLICATION OF PYTHON CONCEPTS
   The following are the different python concepts applied in the program:
 
@@ -135,6 +137,9 @@
   <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/CODEBLOCKS/randomization.png"
 </div>
 
+
+<hr class="w-48 h-1 mx-auto my-4 bg-pink-500 border-0 rounded md:my-10 dark:bg-pink-600">
+
   
   ### SUSTAINABLE DEVELOPMENT GOALS (SDG) INTEGRATION ON THE PROJECT
   
@@ -148,5 +153,7 @@
   6. CLIMATE ACTION - Part of the endeavors of the organization is by giving the victims of different calamities and disaster-stricken areas an immediate assistance, supports rehabilitation initiatives as well as giving them an intervention about risk reduction and resiliency.
 
   In conclusion, making this project as a way of helping the ANGAT BUHAY FOUNDATION can help the organization to achieve its  initiatives for the people.
+
+<hr class="w-48 h-1 mx-auto my-4 bg-pink-500 border-0 rounded md:my-10 dark:bg-pink-600">
 
   ### INSTRUCTIONS ON HOW TO RUN THE PROGRAM
