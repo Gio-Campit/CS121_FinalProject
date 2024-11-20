@@ -22,12 +22,11 @@
 
 ---
 
-**ANGAT BUHAY LAHAT: DONATION THROUGH PHILIPPINE GEOGRAPHY EXPLORATION**
 
-**PROJECT DESCRIPTION**
-  Angat Buhay Lahat: DONATION THROUGH PHILIPPINE GEOGRAPHY EXPLORATION is a philippine geography quiz game that enables the user to identify each capital of different provinces from the seventeen regions in the Philippines. The mere purpose of this system is to let the user learn the different capitals of the provinces from different regions while they can also help the ANGAT BUHAY FOUNDATION by just playing the game. In this game, users can accumulate points by getting the correct answer of the different questions and the points that they got can be converted into a coin in which these coins can be donated in the ANGAT BUHAY FOUNDATION to help them on their initiatives for the people. 
+### PROJECT OVERVIEW
+  **Angat Buhay Lahat: DONATION THROUGH PHILIPPINE GEOGRAPHY EXPLORATION** is a philippine geography quiz game that enables the user to identify each capital of different provinces from the seventeen regions in the Philippines. The mere purpose of this system is to let the user learn the different capitals of the provinces from different regions while they can also help the ANGAT BUHAY FOUNDATION by just playing the game. In this game, users can accumulate points by getting the correct answer of the different questions and the points that they got can be converted into a coin in which these coins can be donated in the ANGAT BUHAY FOUNDATION to help them on their initiatives for the people. 
 
-  **PYTHON CONCEPTS**
+### APPLICATION OF PYTHON CONCEPTS
   The following are the different python concepts applied in the program:
 
  1. DICTIONARIES - the program used a region dictionary that organizes data, storing regions as keys and provinces-capitals as nested dictionaries. It allows a quick lookup of regions and their respective provinces and capitals.
@@ -142,7 +141,7 @@ if re.fullmatch(r"\d{11}", gcash_number):
 **CODE BLOCK**
 province, capital = random.choice(list(regions[chosen_region].items()))
 
-**SUSTAINABLE DEVELOPMENT GOALS (SDG) INTEGRATION ON THE PROJECT**
+### SUSTAINABLE DEVELOPMENT GOALS (SDG) INTEGRATION ON THE PROJECT
   
   While this project focuses on providing knowledge for the user about the different capitals of provinces in the Philippines, it also serves as a donation drive for a specific charity which is the Non-government Organization ANGAT BUHAY FOUNDATION. This project targets different Sustainable Development Goals as same as the ANGAT BUHAY FOUNDATION. The following are the different SDG integrated in the project:
 
@@ -155,4 +154,4 @@ province, capital = random.choice(list(regions[chosen_region].items()))
 
   In conclusion, making this project as a way of helping the ANGAT BUHAY FOUNDATION can help the organization to achieve its  initiatives for the people.
 
-  **INSTRUCTIONS ON RUNNING THE PROGRAM**
+  ### INSTRUCTIONS ON HOW TO RUN THE PROGRAM
