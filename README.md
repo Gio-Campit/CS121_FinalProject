@@ -157,3 +157,12 @@
 <hr class="w-48 h-1 mx-auto my-4 bg-pink-500 border-0 rounded md:my-10 dark:bg-pink-600">
 
   ### INSTRUCTIONS ON HOW TO RUN THE PROGRAM
+
+The following are the instructions that guides you on how the Angat Buhay Lahat: Donation through Philippine Geography Exploration project works.
+
+-**START OF THE PROGRAM**
+    - Use the program in a python environment.
+    -The program will prompt the user a welcome message.
+    -At the beginning of the game, it will ask the user what region of the Philippines they want to play. Note that the selection of region is case sensetive, if the user did not uinput the exact word on the choices, the program will then let the user to choose again.
+
+    
