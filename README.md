@@ -1,3 +1,17 @@
+<div align ="center">
+  
+
+<details>
+  <summary><strong>Table of Contents</strong></summary>
+
+  1. [Project Overview](#project-overview)
+  2. [Application of Python Concepts](#application-of-python-concepts)
+  3. [Sustainable Development Goals (SDG) in the Project](sustainable-development-goals-(sdg)-in-the-project)
+  4. [Instructions on how to run the Program](instructions-on-how-to-run-the-program)
+</details>
+
+---
+
 **ANGAT BUHAY LAHAT: DONATION THROUGH PHILIPPINE GEOGRAPHY EXPLORATION**
 
 **PROJECT DESCRIPTION**
