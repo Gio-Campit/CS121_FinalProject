@@ -216,8 +216,13 @@ The following are the instructions that guides you on how the Angat Buhay Lahat:
 </div>
 
 <div align="right side">
-  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/AngatBuhayDonation.png" alt="AngatBuhayDonation" width="370" height="15""
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/AngatBuhayDonation.png" alt="AngatBuhayDonation" width="400" height="350""
 </div>
 
+ <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
+</div>
+
+### GRATITUDE  STATEMENT
+Making this project on my own has been very challenging especially I do not excel that much when it comes to coding, but fortunately I survived it. First and foremost, I would like to thank our dear Creator on giving me strenght and wisdom so that I can finish this project. To my family and of course to our magandang professor Ma'am Fatima Marie Agdon(ma'am maganda ka po talaga hindi dahil sa nanghihingi ako ng uno kundidahil maganda ka po talaga haha), thank you for giving us the knowledge about this course and for eagerly teaching us regardless of the situatios that our class have encountered. Lastly to myself of course, there are days that you want to give up but you didn't, just don't be too dramatic next time okay?? We still have a capstone on our third and fourth year(do' nalang tayo umiyak self).
 
 
