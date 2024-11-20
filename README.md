@@ -1,5 +1,15 @@
 <div align ="center">
-  
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/ANGAT.png"
+" alt="Angat Buhay Lahat Logo" width ="300" height="260">
+<h1>Angat Buhay Lahat: Donation Through Philippine Geography Exploration!</h1>
+
+<p><b>IT 2104</b></p>
+<a><p>CAMPIT, VIRGILIO L.</p></a>
+
+ <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
+</div>
+
+
 
 <details>
   <summary><strong>Table of Contents</strong></summary>
