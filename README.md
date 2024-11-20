@@ -161,8 +161,39 @@
 The following are the instructions that guides you on how the Angat Buhay Lahat: Donation through Philippine Geography Exploration project works.
 
 -**START OF THE PROGRAM**
-    - Use the program in a python environment.
-    -The program will prompt the user a welcome message.
-    -At the beginning of the game, it will ask the user what region of the Philippines they want to play. Note that the selection of region is case sensetive, if the user did not uinput the exact word on the choices, the program will then let the user to choose again.
+  -  Run the program in a python environment.
+  -  The program will prompt the user a welcome message.
+  -  At the beginning of the game, it will ask the user what region of the Philippines they want to play. Note that the selection of region is case sensetive, if the user did not uinput the exact word on the choices, the program will then let the user to choose again.
 
+<div align="right side">
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/welcome message.png" alt="welcome message" width="370" height="200""
+</div>
     
+-**GAME PROPER**
+  -  After succesfully entering the region that you want to play, the program will then prompt random provinces from the chosen region until all of the provinces are answered.
+  -  The user will only have three (3) attempts to answer. Each attempt has a corresponding point. 1st attempt is equal to 5 points, 2nd attempt is equal to 3 points while the third attempt is equal to only 1 point. If the user is not able to answer what is the capital of that specific province, the program will proceed to the next province.
+
+<div align="right side">
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/phase1.png" alt="phase1" width="370" height="200""
+</div>
+<div align="right side">
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/game proper.png" alt="game proper" width="370" height="350""
+</div>
+
+-**CONTINUATION OF PLAY**
+  -  After the user have finished answering one region, the program will then ask the user whether they want to continue playing or not.
+  -  If yes, then the program will then let the user to choose again in the region to play.
+  -  If no, the program will prompt the user how many points they got upon playing the game.
+<div align="right side">
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/continue playing.png" alt="continue playing" width="370""
+</div>
+
+-**CONVERSION OF POINTS INTO COINS**
+  -  The accumulated points can be used by the user too convert into coins. The program will ask the user whether they want to convert their points into coins or not.
+  -  5 points is equivalent to 1 peso, however, the total accumulated points should be more than 10 in order for it to be converted innto coins.
+  -  If the user picked yes, the points will be converted into coins, and if no, a thank you message will be prompted.
+
+<div align="right side">
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/stop play.png" alt="stop play" width="370""
+</div>
+
