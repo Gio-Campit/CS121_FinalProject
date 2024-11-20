@@ -197,3 +197,27 @@ The following are the instructions that guides you on how the Angat Buhay Lahat:
   <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/stop play.png" alt="stop play" width="370""
 </div>
 
+-**SENDING COINS TO GCASH ACCOUNT**
+  -  After the user has coverted the points into coins, the user will then let the user to enter the Gcash number that will be used to receive the coins.
+  -  If an invalid Gcash number has been entered, the program will ask the user again to re-enter the correct number.
+  -  After a succesful transaction, a thank you message will be prompted.
+
+<div align="right side">
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/GCASH.png" alt="GCASH" width="370""
+</div>
+
+-**DONATION SECTION**
+  -  After sending the coins into GCASH, the program will ask the user whether they want to donate it to ANGAT BUHAY FOUNDATION.
+  -  If no, then a "Thank you for playing the game, your coins are yours to keep" message will be prompted.
+  -  If yes, the program will give the user the link of ANGAT BUHAY FOUNDATION where they can click it and donate the coins that they got from the game.
+
+<div align="right side">
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/donation (2).png" alt="donation (2)" width="370" height="15""
+</div>
+
+<div align="right side">
+  <img src="https://github.com/Gio-Campit/CS121_FinalProject/blob/main/images/Instructions/AngatBuhayDonation.png" alt="AngatBuhayDonation" width="370" height="15""
+</div>
+
+
+
