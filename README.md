@@ -117,3 +117,18 @@ if re.fullmatch(r"\d{11}", gcash_number):
 
 **CODE BLOCK**
 province, capital = random.choice(list(regions[chosen_region].items()))
+
+**SUSTAINABLE DEVELOPMENT GOALS (SDG) INTEGRATION ON THE PROJECT**
+  
+  While this project focuses on providing knowledge for the user about the different capitals of provinces in the Philippines, it also serves as a donation drive for a specific charity which is the Non-government Organization ANGAT BUHAY FOUNDATION. This project targets different Sustainable Development Goals as same as the ANGAT BUHAY FOUNDATION. The following are the different SDG integrated in the project:
+
+  1. ZERO HUNGER - Through Angat Buhay Foundation, the donation that came from from this project will be donated to the foundation to help them in achieving this Goal by securing that there will be no people will suffer from Hunger.
+  2. QUALITY EDUCATION - Aside from the fact that the project itself already gives the user a knowledge about the Philippines which also supports on having a quality education for everyone, through the organization, these initiatives can be widen even more by giving them additional support to achieve this goal. Angat Buhay Foundation is providing classroom, dormitories, and different learning materials that helpls the students to have an access to quality education that gives them a lifelong learning oppurtunities.
+  3. GOOD HEALTH AND WELL BEING - Angat Buhay Foundation also aims to ensure that everyone have an access on different nutrition and healthcare programs.
+  4. DECENT WORK AND ECONOMIC GROWTH - The organization also gives a free training for everyone who wishes to have a decent work by providing them a Voc-Tech Training as well as employment.
+  5. GENDER EQUALITY - The organization helps in empowering the marginalized sectors including the women through creating a partnership with different private sectors and civil society partners. By ending domestic abuse against women and giving them financial independence is also a part of this goal.
+  6. CLIMATE CHANGE - Part of the endeavors of the organization is by giving the victims of different calamities and disaster-stricken areas an immediate assistance, supports rehabilitation initiatives as well as giving them an intervention about risk reduction and resiliency.
+
+  In conclusion, making this project as a way of helping the ANGAT BUHAY FOUNDATION can help the organization to achieve its  initiatives for the people.
+
+  **INSTRUCTIONS ON RUNNING THE PROGRAM**
