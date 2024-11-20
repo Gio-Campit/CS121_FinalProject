@@ -29,18 +29,13 @@
 ### APPLICATION OF PYTHON CONCEPTS
   The following are the different python concepts applied in the program:
 
- 1. DICTIONARIES - the program used a region dictionary that organizes data, storing regions as keys and provinces-capitals as nested dictionaries. It allows a quick lookup of regions and their respective provinces and capitals.
+-**DICTIONARIES**
+  - the program used a region dictionary that organizes data, storing regions as keys and          provinces-capitals as nested dictionaries. It allows a quick lookup of regions and their       respective provinces and capitals.
  
  **CODE BLOCK**
-regions = {
-    "Ilocos Region": {
-        "Ilocos Norte": "Laoag",
-        "Ilocos Sur": "Vigan",
-        "La Union": "San Fernando",
-        "Pangasinan": "Lingayen"
-    },
-    ...
-}
+<div align="right side">
+  <img src="![dictionaries](https://github.com/user-attachments/assets/691c372a-5042-4fe5-9b4a-cebc5cdfe80e)"
+</div>
 
 
  2. LOOPS - this python concept enables iteration of all provinces in a chosen region through for loop, on the other hand, while loop allows the user to have 3 attempts to answer each question.
